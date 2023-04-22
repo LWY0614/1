@@ -1,0 +1,4 @@
+# ninja log v5
+1	173	7038850913961349	build.ninja	e4edd6cdb8b56097
+0	336	7038850917940996	CMakeFiles/git.dir/main.cpp.obj	dad2baa2b9b696c2
+338	418	7038850918726243	git.exe	eab1ea759e558fdd
